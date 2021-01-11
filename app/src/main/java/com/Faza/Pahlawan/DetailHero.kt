@@ -1,10 +1,9 @@
-package com.yazidevelop.heroappkotlin
+package com.Faza.Pahlawan
 
 import android.os.Bundle
-import android.os.PersistableBundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
-import com.yazidevelop.heroappkotlin.databinding.DetailHeroBinding
+import com.Faza.Pahlawan.databinding.DetailHeroBinding
 import kotlinx.android.synthetic.main.detail_hero.*
 
 class DetailHero:AppCompatActivity() {

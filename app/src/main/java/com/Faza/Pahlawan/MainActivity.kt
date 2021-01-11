@@ -1,4 +1,4 @@
-package com.yazidevelop.heroappkotlin
+package com.Faza.Pahlawan
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,7 +6,7 @@ import android.os.Bundle
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.yazidevelop.heroappkotlin.databinding.ActivityMainBinding
+import com.Faza.Pahlawan.databinding.ActivityMainBinding
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(), OnHeroClickListener {
